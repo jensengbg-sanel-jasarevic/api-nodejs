@@ -33,5 +33,3 @@ I denna inlämningsuppgift ska du bygga en Node.JS-applikation för en e-handels
 din code review på och tre saker som du tycker är bra samt en sak som kan förbättras.
 
 Inlämning sker via Github och Learnpoint. Ladda upp ditt projekt på Github inklusive din databas (d.v.s din JSON-fil). Gå sedan in på Learnpoint och under innehåll finns det en inlämningsuppgift där du ska posta din länk till ditt repo. Bifoga även med ditt dokument gällande code review om du satsar på Väl Godkänt.
-
-URL: https://eshop-api-server.herokuapp.com/
