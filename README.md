@@ -1,12 +1,12 @@
-# Inlämningsuppgift 1
+# Inlämningsuppgift 1: E-handelsida API
 
 ## Instruktioner
 
-I denna inlämningsuppgift ska du bygga en Node.JS-applikation för en e-handelssida. Du ska skapa upp ett API samt en databas med lowdb som ska hantera din e-handelssida. Denna inlämningsuppgift ska **dock inte** ha någon HTML, CSS eller JavaScript (i klienten). Utan det kommer i nästa inlämningsuppgift där du ska använda dig av ditt API från denna uppgift.
+I denna inlämningsuppgift ska du bygga en Node.JS-applikation för en e-handelsida. Du ska skapa upp ett API samt en databas med lowdb som ska hantera din e-handelsida. Denna inlämningsuppgift ska **dock inte** ha någon HTML, CSS eller JavaScript (i klienten). Utan det kommer i nästa inlämningsuppgift där du ska använda dig av ditt API från denna uppgift.
 
 **Krav på funktionalitet**
 * Endpoint:s för följande:
-    * Hämta alla produkter (sedan nedan på vad en produkt ska innehålla).
+    * Hämta alla produkter (se nedan på vad en produkt ska innehålla).
     * Kunna lägga till produkter i en varukorg.
     * Kunna ta bort produkter i varukorgen.
     * Hämta varukorgen med alla tillagda produkter.
@@ -15,9 +15,9 @@ I denna inlämningsuppgift ska du bygga en Node.JS-applikation för en e-handels
 * Man ska få ett felmeddelande om man försöker ta bort en produkt som inte finns.
 
 **En produkt ska innehålla följande:**
-* Namn
-* Pris
-* En bild-url (Använd exempelvis denna sida för att generera bild-url:er https://placeimg.com/)
+* Namn.
+* Pris.
+* En bild-url (använd exempelvis denna sida för att generera bild-url:er https://placeimg.com/).
 
 **För Godkänt krävs:**
 * Att du uppfyller alla krav på funktionalitet.
